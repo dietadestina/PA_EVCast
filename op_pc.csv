@@ -1,33 +1,35 @@
 State,No. of Operational PCS
-Andaman & Nicobar,3
-Andhra Pradesh,327
-Arunachal Pradesh,9
-Assam,86
-Bihar,124
-Chandigarh,12
-Chhattisgarh,149
-D&D and DNH,1
-Goa,113
-Gujarat,476
-Haryana,377
-Himachal Pradesh,44
-Jammu and Kashmir,47
-Jharkhand,135
-Karnataka,1041
-Kerala,852
-Lakshadweep,1
-Madhya Pradesh,341
-Manipur,17
-Meghalaya,21
-Nagaland,6
-Odisha,198
-Pondicherry,23
-Punjab,158
-Rajasthan,500
-Sikkim,2
-Tamil Nadu,643
-Telangana,481
-Tripura,18
-Uttar Pradesh,582
-Uttarakhand,76
-West Bengal,318
+Andaman & Nicobar,0.000649772579597141
+Andhra Pradesh,0.10591293047433398
+Arunachal Pradesh,0.002599090318388564
+Assam,0.02761533463287849
+Bihar,0.03996101364522417
+Chandigarh,0.0035737491877842753
+Chhattisgarh,0.04808317089018843
+D&D and DNH,0.0
+Delhi,0.6124106562703054
+Goa,0.036387264457439894
+Gujarat,0.15432098765432098
+Haryana,0.1221572449642625
+Himachal Pradesh,0.01397011046133853
+Jammu and Kashmir,0.014944769330734242
+Jharkhand,0.043534762833008445
+Karnataka,0.3378817413905133
+Kerala,0.2764782326185835
+Lakshadweep,0.0
+Madhya Pradesh,0.11046133853151396
+Maharashtra,0.9999999999999999
+Manipur,0.005198180636777128
+Meghalaya,0.00649772579597141
+Nagaland,0.0016244314489928524
+Odisha,0.06400259909031839
+Pondicherry,0.007147498375568551
+Punjab,0.051007147498375566
+Rajasthan,0.16211825860948667
+Sikkim,0.0003248862897985705
+Tamil Nadu,0.20857699805068225
+Telangana,0.15594541910331383
+Tripura,0.005523066926575698
+Uttar Pradesh,0.18875893437296945
+Uttarakhand,0.024366471734892786
+West Bengal,0.10298895386614684
